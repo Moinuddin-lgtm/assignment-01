@@ -1,0 +1,39 @@
+body{
+    padding: 2%;
+}
+.m-2{
+    color: orange;
+}
+#border-side{
+    font-size: 50px;
+    border-left: 3px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+.i-b{
+    width: 30%;
+}
+.bolding{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+#nd-div-centre{
+    text-align: center;
+}
+.Border-shellter{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: rgb(216, 229, 235);
+}
